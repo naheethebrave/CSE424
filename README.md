@@ -1,2 +1,2 @@
 # CSE424
-This is CSE424 Folder.
+This is my CSE424 Folder. Here is all of my submissions.
