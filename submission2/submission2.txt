@@ -2,6 +2,8 @@ Team 15 - Task 2
 
 Paper Name: Re-contextualizing Fairness in NLP: The Case of India
 
+Paper Link: https://arxiv.org/pdf/2209.12226.pdf
+
 Presentation File: https://docs.google.com/presentation/d/14cAyjc_HyLSS6FnbC7mv3AiozEdrxDMtU7p1PrxsSR0/edit#slide=id.p
 
 Video Link: https://youtu.be/Cj4aOXX0aCs
