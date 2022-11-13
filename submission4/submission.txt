@@ -1,0 +1,31 @@
+Unlisted youtube video:
+# to be given
+
+Conference submitted paper / paper submission / login Link:
+# to be given
+
+Paper title:
+The Detection of Breast Cancer using Vision Transformers
+
+First Paper draft
+https://docs.google.com/document/d/1_I9FO0mbuQnI_fOYvh7JX1g84OCNqQarH01kKzCmLQk/edit
+
+Paper submission date (to workshop/conference):
+# to be given
+
+Paper submission ID: (received) from conference/workshop
+# to be given
+
+Conference Name:
+# to be given
+
+Conference URL:
+# to be given
+
+Group Number:
+15
+
+Group Members:
+18301289	Tamzeedur Rahman Prithul
+20301057	Zawadul Kafi Nahee
+20301218	Sabrina Rahman Mazumder
