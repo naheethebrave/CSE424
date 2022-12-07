@@ -7,8 +7,8 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 The Detection of Breast Cancer using Vision Transformers
 
-First Paper draft
-https://docs.google.com/document/d/1_I9FO0mbuQnI_fOYvh7JX1g84OCNqQarH01kKzCmLQk/edit
+Paper Overview:
+https://www.overleaf.com/2886617887bcndjkkkjnrt
 
 Paper submission date (to workshop/conference):
 # to be given
