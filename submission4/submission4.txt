@@ -8,7 +8,7 @@ Paper title:
 The Detection of Breast Cancer using Vision Transformers
 
 Paper Overview:
-https://www.overleaf.com/2886617887bcndjkkkjnrt
+https://www.overleaf.com/read/kqqhgprynhwh
 
 Paper submission date (to workshop/conference):
 # to be given
