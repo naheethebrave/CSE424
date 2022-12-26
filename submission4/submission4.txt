@@ -2,19 +2,19 @@ Unlisted youtube video:
 # to be given
 
 Conference submitted paper / paper submission / login Link:
-# to be given
+https://edas.info/showPaper.php?m=1570875121
 
 Paper title:
-The Detection of Breast Cancer using Vision Transformers
+Classifying Breast Cancer Images Using Vision Transformers
 
 Paper Overview:
 Computer-aided diagnostic systems for the identification and classification of breast cancer have been developed using a variety of imaging modalities in conjunction with machine learning (ML) models. Performance effectiveness with ML-based machine diagnostic methods has advanced to something like a different extreme that also is comparable to actual specialists, thanks to fully convolutional networking (CNN) algorithms, which also have grown in latest years. CNN models are computational intelligence models. The investigation of screening for breast cancer has employed a variety of CNN models, notably supervised learning being more. Our Vision Transformer serves as the basis for something like the semi-supervised learning approach that we provide throughout this paper (ViT). As it has not been widely used in diagnosis of breast cancer, this ViT approach has been shown to outperform CNN models across numerous classification assessments. The recommended method offers a customized semi-supervised learning strategy that incorporates supervised as well as consistency training to boost the model's resilience. The approach also uses an adaptive token sampling strategy, which allows it to pick out the most crucial symbols from of the source image before testing, in particular to significantly enhance productivity. Researchers evaluate our methods on different datasets comprising contain pictures from histological as well as ultrasonography.
 
 Paper submission date (to workshop/conference):
-# to be given
+26th December 2022
 
 Paper submission ID: (received) from conference/workshop
-# to be given
+1570875121
 
 Conference Name:
 International Joint Conference on Neural Networks 2023
